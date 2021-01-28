@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247186421714",
+    "project_id": "midcheck-bd46d",
+    "storage_bucket": "midcheck-bd46d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247186421714:android:23c7a662adea79a2a8fa0b",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247186421714-n0kl9k0v7a2ojo68maf08fqaqj6qtje4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk2_Y0CxVz6xyHa62n5LIP8qUEoRVJ6JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247186421714-n0kl9k0v7a2ojo68maf08fqaqj6qtje4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
