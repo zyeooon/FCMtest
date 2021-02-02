@@ -52,8 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
             httpclient = new DefaultHttpClient();
             httppost = new HttpPost("http://192.168.219.161/register.php");
-            nameValuePairs = new ArrayList<NameValuePair>(2);
-            nameValuePairs.add(new BasicNameValuePair("id", "2"));
+            nameValuePairs = new ArrayList<NameValuePair>(1);
             nameValuePairs.add(new BasicNameValuePair("Token", token));
             httppost.setEntity(new UrlEncodedFormEntity(nameValuePairs));
             response = httpclient.execute(httppost);
